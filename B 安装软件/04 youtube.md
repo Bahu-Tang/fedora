@@ -1,0 +1,1 @@
+教程：[下载YouTubu-Linux版本](https://geek-blogs.com/blog/youtube-app-linux/) ``` flatpak install flathub io.freetubeapp.FreeTube ``` 官方文档：[文档](https://docs.freetubeapp.io/) 使用方法：[操作手册](https://docs.freetubeapp.io/usage/) 其中——导入订阅：[导入订阅操作手册](https://docs.freetubeapp.io/usage/importing-subscriptions/)
